@@ -1,0 +1,56 @@
+{%- comment -%}
+  English / Traditional Chinese switch.
+  Counterpart = the page in the other language with the same filename
+  (index.md is the home page in both / and /zh/).
+  include.part: "toggle" (default) or "alternate" (hreflang links).
+{%- endcomment -%}
+{%- assign lang_current = page.lang | default: "en" -%}
+{%- if lang_current == "zh-TW" -%}
+  {%- assign lang_other = "en" -%}
+{%- else -%}
+  {%- assign lang_other = "zh-TW" -%}
+{%- endif -%}
+{%- assign lang_key = page.name | replace: ".md", "" -%}
+{%- assign lang_counterpart = nil -%}
+{%- if lang_other == "zh-TW" -%}
+  {%- assign lang_pool = site.html_pages | where: "lang", "zh-TW" -%}
+{%- else -%}
+  {%- assign lang_pool = site.html_pages | where: "lang", "en" -%}
+{%- endif -%}
+{%- for candidate in lang_pool -%}
+  {%- assign candidate_key = candidate.name | replace: ".md", "" -%}
+  {%- if candidate_key == lang_key -%}
+    {%- assign lang_counterpart = candidate -%}
+    {%- break -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- if include.part == "alternate" -%}
+  {%- if lang_current == "zh-TW" -%}
+    {%- assign lang_en_url = lang_counterpart.url | absolute_url -%}
+    {%- assign lang_zh_url = page.url | absolute_url -%}
+  {%- else -%}
+    {%- assign lang_en_url = page.url | absolute_url -%}
+    {%- assign lang_zh_url = lang_counterpart.url | absolute_url -%}
+  {%- endif -%}
+  {%- if lang_en_url -%}
+    <link rel="alternate" hreflang="en" href="{{ lang_en_url }}">
+    <link rel="alternate" hreflang="x-default" href="{{ lang_en_url }}">
+  {%- endif -%}
+  {%- if lang_zh_url -%}
+    <link rel="alternate" hreflang="zh-TW" href="{{ lang_zh_url }}">
+  {%- endif -%}
+{%- else -%}
+<nav class="lang-toggle {{ include.variant }}" aria-label="{% if lang_current == 'zh-TW' %}語言{% else %}Language{% endif %}">
+  {%- if lang_current == "zh-TW" -%}
+    {%- if lang_counterpart -%}
+      <a class="lang-toggle-link" href="{{ lang_counterpart.url | relative_url }}" lang="en" hreflang="en">EN</a>
+    {%- endif -%}
+    <span class="lang-toggle-current" aria-current="true" lang="zh-TW">繁中</span>
+  {%- else -%}
+    <span class="lang-toggle-current" aria-current="true" lang="en">EN</span>
+    {%- if lang_counterpart -%}
+      <a class="lang-toggle-link" href="{{ lang_counterpart.url | relative_url }}" lang="zh-TW" hreflang="zh-TW">繁中</a>
+    {%- endif -%}
+  {%- endif -%}
+</nav>
+{%- endif -%}
