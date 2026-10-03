@@ -60,7 +60,7 @@ Each rung is a kind of person, not a trophy. Skip a rung only when the story is 
 
 ## Watch
 
-- [How Startup Fundraising Works | Startup School](https://www.youtube.com/watch?v=zBUhQPPS9AY) — Brad Flora, Y Combinator. The myths (you must raise to start, you need a fancy network, a no means the company is bad) and how the process actually feels.
+- [How Startup Fundraising Works \| Startup School](https://www.youtube.com/watch?v=zBUhQPPS9AY) — Brad Flora, Y Combinator. The myths (you must raise to start, you need a fancy network, a no means the company is bad) and how the process actually feels.
 - [Fundraising Fundamentals By Geoff Ralston](https://www.youtube.com/watch?v=gcevHkNGrWQ) — Y Combinator. Who is in the ecosystem, how much to raise, and how to run the meetings without forgetting to go back to work.
 - [Lecture 9 - How to Raise Money (Marc Andreessen, Ron Conway, Parker Conrad)](https://www.youtube.com/watch?v=uFX95HahaUs) — YC Root Access. A seed-stage panel: what investors are actually underwriting, and the relationship between risk and how much cash you hold.
 

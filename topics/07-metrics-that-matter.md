@@ -70,9 +70,9 @@ If you only have time for one artifact, make it the cohort spreadsheet with a "p
 
 ## Watch
 
-- [B2B Startup Metrics | Startup School](https://www.youtube.com/watch?v=_mKeVGSqQac) — Y Combinator. Which numbers matter when the buyer is an account, and how not to drown in them.
-- [Consumer Startup Metrics | Startup School](https://www.youtube.com/watch?v=fdD4y4Civp4) — Y Combinator. The consumer counterpart: activation and retention without pretending you are already a growth team.
-- [How To Keep Your Users | Startup School](https://www.youtube.com/watch?v=VNxBZ7ka5J0) — Y Combinator. Retention as something you act on — cohorts, why people leave, what to change — not a chart to admire.
+- [B2B Startup Metrics \| Startup School](https://www.youtube.com/watch?v=_mKeVGSqQac) — Y Combinator. Which numbers matter when the buyer is an account, and how not to drown in them.
+- [Consumer Startup Metrics \| Startup School](https://www.youtube.com/watch?v=fdD4y4Civp4) — Y Combinator. The consumer counterpart: activation and retention without pretending you are already a growth team.
+- [How To Keep Your Users \| Startup School](https://www.youtube.com/watch?v=VNxBZ7ka5J0) — Y Combinator. Retention as something you act on — cohorts, why people leave, what to change — not a chart to admire.
 
 ## Further reading
 

@@ -57,7 +57,7 @@ You are collecting repeated stories, not votes on your idea.
 
 ## Watch
 
-- [How To Talk To Users | Startup School](https://www.youtube.com/watch?v=z1iF1c8w5Lg) — Gustaf Alströmer, Y Combinator. Who to talk to, which questions to ask, and which questions ruin the conversation.
+- [How To Talk To Users \| Startup School](https://www.youtube.com/watch?v=z1iF1c8w5Lg) — Gustaf Alströmer, Y Combinator. Who to talk to, which questions to ask, and which questions ruin the conversation.
 - [Lecture 16 - How to Run a User Interview (Emmett Shear)](https://www.youtube.com/watch?v=qAws7eXItMk) — YC Root Access, Stanford CS183B. How to run the conversation so you learn the workflow instead of collecting compliments.
 - [Lecture 4 - Building Product, Talking to Users, and Growing (Adora Cheung)](https://www.youtube.com/watch?v=yP176MBG9Tk) — YC Root Access. Product, user conversations, and growth as one loop, from a founder who did the unglamorous version.
 

@@ -67,7 +67,7 @@ The MVP is finished when that person gets the outcome, not when you are proud of
 
 ## Watch
 
-- [How to Build An MVP | Startup School](https://www.youtube.com/watch?v=QRZ_l7cVzzU) — Michael Seibel, Y Combinator. What an early product actually was at Airbnb, Twitch, and Stripe, and why speed matters more than completeness.
+- [How to Build An MVP \| Startup School](https://www.youtube.com/watch?v=QRZ_l7cVzzU) — Michael Seibel, Y Combinator. What an early product actually was at Airbnb, Twitch, and Stripe, and why speed matters more than completeness.
 - [Michael Seibel - How to Plan an MVP](https://www.youtube.com/watch?v=1hHMwLxN6EM) — Y Combinator. Time-box the spec, write it down, cut it, and don't fall in love with it. The practical companion to the talk above.
 
 ## Further reading

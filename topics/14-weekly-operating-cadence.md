@@ -55,7 +55,7 @@ The week is a loop with a written residue. Strategy is what the residue says you
 
 ## Watch
 
-- [Setting KPIs and Goals | Startup School](https://www.youtube.com/watch?v=6DTK9yDP6p0) — Y Combinator. How early teams pick a primary metric and set a target without drowning in secondary numbers. Use it to choose the one outcome, then come back to the Friday template.
+- [Setting KPIs and Goals \| Startup School](https://www.youtube.com/watch?v=6DTK9yDP6p0) — Y Combinator. How early teams pick a primary metric and set a target without drowning in secondary numbers. Use it to choose the one outcome, then come back to the Friday template.
 - [Lecture 14 - How to Operate (Keith Rabois)](https://www.youtube.com/watch?v=6fQHLK1aIBs) — YC Root Access. Operating cadence as the company gets slightly less tiny: what you track, what you edit, and how information moves. Steal the "write it down" discipline now; ignore the parts that assume a larger team.
 
 ## Further reading

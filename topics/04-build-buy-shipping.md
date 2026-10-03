@@ -61,9 +61,9 @@ Speed is a consequence of a short list, not of working more nights.
 
 ## Watch
 
-- [Tips For Technical Startup Founders | Startup School](https://www.youtube.com/watch?v=rP7bpYsfa6Q) — Diana Hu, Y Combinator. How a technical founder should spend time, pick a stack, live with debt, and only then hire.
-- [How to Build An MVP | Startup School](https://www.youtube.com/watch?v=QRZ_l7cVzzU) — Michael Seibel, Y Combinator. The shipping half: get a thin product out, then iterate. Use it as the cadence reminder if the stack talk tempts you to tinker.
-- [The Best Way To Launch Your Startup | Startup School](https://www.youtube.com/watch?v=u36A-YTxiOw) — Y Combinator. Launch is a repeated motion, not a single Product Hunt day. Good bridge into [Distribution](../05-distribution-gtm/).
+- [Tips For Technical Startup Founders \| Startup School](https://www.youtube.com/watch?v=rP7bpYsfa6Q) — Diana Hu, Y Combinator. How a technical founder should spend time, pick a stack, live with debt, and only then hire.
+- [How to Build An MVP \| Startup School](https://www.youtube.com/watch?v=QRZ_l7cVzzU) — Michael Seibel, Y Combinator. The shipping half: get a thin product out, then iterate. Use it as the cadence reminder if the stack talk tempts you to tinker.
+- [The Best Way To Launch Your Startup \| Startup School](https://www.youtube.com/watch?v=u36A-YTxiOw) — Y Combinator. Launch is a repeated motion, not a single Product Hunt day. Good bridge into [Distribution](../05-distribution-gtm/).
 
 ## Further reading
 
