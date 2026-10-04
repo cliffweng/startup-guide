@@ -1,0 +1,55 @@
+// Language toggle. One control is visible at a time:
+// the sidebar copy on small screens (the top bar), the header copy from md up.
+// Just the Docs hides .main-header below the md breakpoint.
+
+.lang-toggle {
+  display: inline-flex;
+  align-items: stretch;
+  flex: 0 0 auto;
+  border: 1px solid $border-color;
+  border-radius: 4px;
+  overflow: hidden;
+  font-size: 12px !important;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.01em;
+}
+
+.lang-toggle-link,
+.lang-toggle-current {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.35rem 0.5rem;
+  text-decoration: none;
+  color: $body-text-color;
+}
+
+.lang-toggle-link:hover {
+  background-color: $feedback-color;
+  text-decoration: none;
+}
+
+.lang-toggle-current {
+  background-color: $link-color;
+  color: #fff;
+}
+
+.lang-toggle--sidebar {
+  margin-right: $sp-2;
+}
+
+.lang-toggle--header {
+  display: none;
+  align-self: center;
+  margin-right: $sp-3;
+}
+
+@include mq(md) {
+  .lang-toggle--sidebar {
+    display: none;
+  }
+
+  .lang-toggle--header {
+    display: inline-flex;
+  }
+}

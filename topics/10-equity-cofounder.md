@@ -62,11 +62,11 @@ Trust is why you start together. Vesting is why the company can continue if trus
 
 ## Watch
 
-- [Co-Founder Equity Mistakes to Avoid | Startup School](https://www.youtube.com/watch?v=DISocTmEwiI) — Y Combinator. The splits and "handshake equity" mistakes that actually kill early teams.
-- [Keys To Successful Co-Founder Relationships | Startup School](https://www.youtube.com/watch?v=A4SLDQDXdp0) — Y Combinator. The relationship underneath the cap table: expectations, stress, and how breakups start.
+- [Co-Founder Equity Mistakes to Avoid \| Startup School](https://www.youtube.com/watch?v=DISocTmEwiI) — Y Combinator. The splits and "handshake equity" mistakes that actually kill early teams.
+- [Keys To Successful Co-Founder Relationships \| Startup School](https://www.youtube.com/watch?v=A4SLDQDXdp0) — Y Combinator. The relationship underneath the cap table: expectations, stress, and how breakups start.
 - [Legal and Accounting Basics for Startups with Kirsty Nathoo and Carolynn Levy](https://www.youtube.com/watch?v=sd9yLmJ1Jfk) — Y Combinator. The vesting and founder-stock section is the legal companion. Again: a map of what to ask counsel, not a do-it-yourself filing guide.
 
 ## Further reading
 
-- [How To Find A Co-Founder | Startup School](https://www.youtube.com/watch?v=Fk9BCr5pLTU) — Harj Taggar, Y Combinator. Watch this *before* you invent a cofounder to fill a slide. Equity splits assume the person is real.
+- [How To Find A Co-Founder \| Startup School](https://www.youtube.com/watch?v=Fk9BCr5pLTU) — Harj Taggar, Y Combinator. Watch this *before* you invent a cofounder to fill a slide. Equity splits assume the person is real.
 - First Round's cofounder question list (search "50 questions to explore with a potential co-founder") — use it as the conversation agenda, then write down the answers.

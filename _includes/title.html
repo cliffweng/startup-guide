@@ -1,0 +1,7 @@
+{% if site.logo %}
+  <div class="site-logo" role="img" aria-label="{% if page.lang == 'zh-TW' %}新創指南{% else %}{{ site.title }}{% endif %}"></div>
+{% elsif page.lang == "zh-TW" %}
+  新創指南
+{% else %}
+  {{ site.title }}
+{% endif %}

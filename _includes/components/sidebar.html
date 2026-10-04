@@ -1,0 +1,35 @@
+{%- comment -%}
+  Include as: {%- include components/sidebar.html -%}
+  Based on just-the-docs 0.12 sidebar.
+  Differences: language-specific home link, visible EN / 繁中 toggle on small
+  screens, and an uncached nav so each language gets its own sidebar.
+  The theme caches site_nav for the whole build, which would freeze whichever
+  language rendered first.
+{%- endcomment -%}
+
+<header class="side-bar">
+  <div class="site-header">
+    <a href="{% if page.lang == 'zh-TW' %}{{ '/zh/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}" class="site-title lh-tight">{% include title.html %}</a>
+    {% include lang_switch.html variant="lang-toggle--sidebar" %}
+    <button id="menu-button" class="site-button btn-reset" aria-label="{% if page.lang == 'zh-TW' %}選單{% else %}Menu{% endif %}" aria-expanded="false">
+      <svg viewBox="0 0 24 24" class="icon" aria-hidden="true"><use xlink:href="#svg-menu"></use></svg>
+    </button>
+  </div>
+
+  {% include components/site_nav.html %}
+
+  {%- comment -%}
+    note: nav_footer_custom and/or this "site footer" appear in components/footer.html for the mobile view.
+  {%- endcomment -%}
+
+  <div class="d-md-block d-none site-footer">
+  {% capture nav_footer_custom %}
+    {%- include nav_footer_custom.html -%}
+  {% endcapture %}
+  {% if nav_footer_custom != "" %}
+    {{ nav_footer_custom }}
+  {% else %}
+    This site uses <a href="https://github.com/just-the-docs/just-the-docs">Just the Docs</a>, a documentation theme for Jekyll.
+  {% endif %}
+  </div>
+</header>

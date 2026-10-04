@@ -30,10 +30,25 @@ mermaid:
   version: "9.1.6"
 
 defaults:
+  # English pages are the default. zh/ mirrors them in Traditional Chinese.
+  # The header/sidebar toggle links a page to the file with the same name.
+  - scope:
+      path: ""
+    values:
+      lang: en
   - scope:
       path: "topics"
     values:
       permalink: /topics/:basename/
+  - scope:
+      path: "zh"
+    values:
+      lang: zh-TW
+  - scope:
+      path: "zh/topics"
+    values:
+      lang: zh-TW
+      permalink: /zh/topics/:basename/
 
 aux_links:
   "View on GitHub":

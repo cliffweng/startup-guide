@@ -61,7 +61,7 @@ If the wedge needs the whole platform to be valuable, it is not a wedge.
 
 ## Watch
 
-- [How to Get and Evaluate Startup Ideas | Startup School](https://www.youtube.com/watch?v=Th8JoIan4dg) — Y Combinator. How to generate and grade ideas, including what "good" looks like before there is a company.
+- [How to Get and Evaluate Startup Ideas \| Startup School](https://www.youtube.com/watch?v=Th8JoIan4dg) — Y Combinator. How to generate and grade ideas, including what "good" looks like before there is a company.
 - [Lecture 1 - How to Start a Startup (Sam Altman, Dustin Moskovitz)](https://www.youtube.com/watch?v=CBYhVcO4WgI) — YC Root Access. The "why now" and "great idea" sections are the part to steal; the rest of the course is optional this week.
 - [Competition is for Losers with Peter Thiel (How to Start a Startup 2014: 5)](https://www.youtube.com/watch?v=3Fx5Q8xGU8k) — Y Combinator. Monopoly language is easy to overlearn; use it to ask "where are we the default choice for one narrow job?" not to write a manifesto.
 

@@ -62,9 +62,9 @@ Packaging is the box around one yes. It is not a pricing page with four columns.
 
 ## Watch
 
-- [How To Price For B2B | Startup School](https://www.youtube.com/watch?v=4hjiRmgmHiU) — Tom Blomfield, Y Combinator. The value equation, why cost is the wrong anchor, and how to talk about a pilot.
+- [How To Price For B2B \| Startup School](https://www.youtube.com/watch?v=4hjiRmgmHiU) — Tom Blomfield, Y Combinator. The value equation, why cost is the wrong anchor, and how to talk about a pilot.
 - [Kevin Hale - Startup Pricing 101](https://www.youtube.com/watch?v=jwXlo9gy_k4) — Y Combinator. Pricing as a lever, the mistakes early teams make, and simple rules for moving the number.
-- [Startup Business Models and Pricing | Startup School](https://www.youtube.com/watch?v=oWZbWzAyHAE) — Aaron Epstein, Y Combinator. Which shapes of business actually show up, and the pricing lessons from them. Use it to name your model in one line, not to browse models forever.
+- [Startup Business Models and Pricing \| Startup School](https://www.youtube.com/watch?v=oWZbWzAyHAE) — Aaron Epstein, Y Combinator. Which shapes of business actually show up, and the pricing lessons from them. Use it to name your model in one line, not to browse models forever.
 
 ## Further reading
 

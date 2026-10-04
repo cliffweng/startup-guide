@@ -11,13 +11,13 @@ nav_order: 2
 
 ## Why it matters
 
-A startup is a bet that a specific person has a specific painful job, and that they will change their behavior if you make that job easier. Code does not test that bet. Conversations and watching people work do. Penn builders are good at shipping; the failure mode is shipping a polished thing for a user who exists only in a group chat.
+A startup is a bet that a specific person has a specific painful job, and that they will change their behavior if you make that job easier. Code does not test that bet. Conversations and watching people work do. Technical builders are good at shipping; the failure mode is shipping a polished thing for a user who exists only in a group chat.
 
 If you are joining an early company rather than founding one, this is still week-one work. Sit in on real customer calls before you form an opinion about the roadmap.
 
 ## Core concepts
 
-- **A customer is a person with a job, a budget, and a current workaround** — not a demographic ("college students") and not a persona slide. Name them so narrowly that you could text ten of them today: "Penn club treasurers who reconcile dues in a spreadsheet every Sunday."
+- **A customer is a person with a job, a budget, and a current workaround** — not a demographic ("college students") and not a persona slide. Name them so narrowly that you could text ten of them today: "Club treasurers who reconcile dues in a spreadsheet every Sunday."
 - **The problem is what they already do, badly.** Ask how they get the job done now, how often, what it costs in time or money, and what they tried last. A problem that has no current workaround is often a problem nobody feels yet.
 - **Pain has a rank.** "Hair on fire" means they are already spending money or hours and would switch this month. "Nice to have" means they nod, take a demo, and go back to the spreadsheet. You want the first.
 - **You are not allowed to pitch in the first conversations.** The moment you describe your solution, people get polite. Polite feedback is how student projects die. Describe the situation, then shut up.
@@ -57,7 +57,7 @@ You are collecting repeated stories, not votes on your idea.
 
 ## Watch
 
-- [How To Talk To Users | Startup School](https://www.youtube.com/watch?v=z1iF1c8w5Lg) — Gustaf Alströmer, Y Combinator. Who to talk to, which questions to ask, and which questions ruin the conversation.
+- [How To Talk To Users \| Startup School](https://www.youtube.com/watch?v=z1iF1c8w5Lg) — Gustaf Alströmer, Y Combinator. Who to talk to, which questions to ask, and which questions ruin the conversation.
 - [Lecture 16 - How to Run a User Interview (Emmett Shear)](https://www.youtube.com/watch?v=qAws7eXItMk) — YC Root Access, Stanford CS183B. How to run the conversation so you learn the workflow instead of collecting compliments.
 - [Lecture 4 - Building Product, Talking to Users, and Growing (Adora Cheung)](https://www.youtube.com/watch?v=yP176MBG9Tk) — YC Root Access. Product, user conversations, and growth as one loop, from a founder who did the unglamorous version.
 

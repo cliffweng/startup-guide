@@ -57,9 +57,9 @@ Early GTM is a loop you can count, not a funnel diagram with six stages.
 
 ## Watch
 
-- [How to Get Your First Customers | Startup School](https://www.youtube.com/watch?v=hyYCn_kAngI) — Y Combinator. How early teams actually got the first users, without pretending there is a hack.
-- [The Best Way To Launch Your Startup | Startup School](https://www.youtube.com/watch?v=u36A-YTxiOw) — Y Combinator. Launch as something you do repeatedly and learn from, not a single announcement.
-- [How To Convert Customers With Cold Emails | Startup School](https://www.youtube.com/watch?v=7Kh_fpxP1yY) — Y Combinator. When the people you need are not in your group chat, how a specific email is different from a blast.
+- [How to Get Your First Customers \| Startup School](https://www.youtube.com/watch?v=hyYCn_kAngI) — Y Combinator. How early teams actually got the first users, without pretending there is a hack.
+- [The Best Way To Launch Your Startup \| Startup School](https://www.youtube.com/watch?v=u36A-YTxiOw) — Y Combinator. Launch as something you do repeatedly and learn from, not a single announcement.
+- [How To Convert Customers With Cold Emails \| Startup School](https://www.youtube.com/watch?v=7Kh_fpxP1yY) — Y Combinator. When the people you need are not in your group chat, how a specific email is different from a blast.
 
 ## Further reading
 
