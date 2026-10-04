@@ -1,6 +1,6 @@
 # Startup Guide
 
-A practical playbook for first-time technical founders — founding a company, or joining one while it is still early. Written for Penn CS and engineering builders. Not an interview guide.
+A practical playbook for first-time technical founders — founding a company, or joining one while it is still early. Written for first-time technical founders. Not an interview guide.
 
 **Live site:** https://cliffweng.github.io/startup-guide/
 
@@ -39,7 +39,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). In short: one topic per file, keep it un
 
 These are the product locks this playbook was built against — echoed here so future contributors don't accidentally relitigate them:
 
-- **Audience**: Penn CS/engineering builders (founding, or joining as an early teammate). Not a general entrepreneurship survey and not interview prep.
+- **Audience**: CS and engineering builders (founding, or joining as an early teammate). Not a general entrepreneurship survey and not interview prep.
 - **Time-boxed**: every topic is readable in 10 minutes or less. Depth is sacrificed for "what do I do next"; "further reading" links are where depth lives.
 - **Practical, not prep**: checklists and failure modes. No interview questions. No "frequent / occasional / background" badges.
 - **Real links only**: every YouTube link is verified to exist before being added. No invented URLs, ever.

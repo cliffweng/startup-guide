@@ -6,7 +6,7 @@ nav_order: 1
 
 # Startup Guide
 
-A practical, no-fluff playbook for Penn CS and engineering builders — people like Darren and Gabe — who are founding something, or joining a company while it is still early (first handful of people, not "year-three employee"). Each page is something you can finish in about ten minutes and then go do.
+A practical, no-fluff playbook for first-time technical founders who are founding something, or joining a company while it is still early (first handful of people, not "year-three employee"). Each page is something you can finish in about ten minutes and then go do.
 
 This is not an interview guide. The sibling Founders Interview Guide is a separate project. Nothing here is badged by how often a question shows up in a loop.
 
